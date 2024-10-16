@@ -20,8 +20,6 @@ How to start learning data platform engineering?
 - Start with improving my understanding of SQL, as that is a fundamental skill needed to effectively build data platforms
    - First, I will complete the DataCamp SQL Server Developer track to expand my knowledge regarding Microsoft SQL Server
 
-How to start learning more about finance & prepare for the FRM Exams?
+How to start learning more about finance & financial risk management?
 - Begin by completing the Khan Academy Finance & Capital Markets course
-- Purchase the FRM Exams 1 & 2 books and start studying for the exams
-- Study from additional resources to help further my understanding of financial risk management and be ready for the exams in May 2025 & November 2025
 ---
